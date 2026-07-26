@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "cytrynan-design",
+  "description": "AI slop を避けるUIデザイン用のClaude Codeプラグイン置き場",
+  "owner": {
+    "name": "cytrynan",
+    "url": "https://github.com/cytrynan"
+  },
+  "plugins": [
+    {
+      "name": "design-director",
+      "description": "「Claudeが作った」と見抜かれないUIを作るためのエージェント＋スキル。方向性の強制選択・デザイントークンのDESIGN.md固定・AI指紋ブラックリスト照合。",
+      "author": {
+        "name": "cytrynan"
+      },
+      "category": "design",
+      "source": "./",
+      "homepage": "https://github.com/cytrynan/design-director"
+    }
+  ]
+}

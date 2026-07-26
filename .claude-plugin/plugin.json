@@ -1,0 +1,12 @@
+{
+  "name": "design-director",
+  "version": "0.1.0",
+  "description": "「Claudeが作った」と見抜かれないUIを作るためのエージェント＋スキル。方向性の強制選択・デザイントークンのDESIGN.md固定・AI指紋ブラックリスト照合で、AI slop な見た目を防ぐ。",
+  "author": {
+    "name": "cytrynan",
+    "url": "https://github.com/cytrynan"
+  },
+  "homepage": "https://github.com/cytrynan/design-director",
+  "license": "MIT",
+  "keywords": ["design", "ui", "frontend", "ai-slop", "design-system"]
+}
