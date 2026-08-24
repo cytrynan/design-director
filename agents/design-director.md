@@ -1,6 +1,6 @@
 ---
 name: design-director
-description: Use this agent when building or restyling user-facing UI (web pages, components, apps) that will be shown to or used by people other than the owner. Produces distinctive, readable designs that do NOT look AI-generated. Trigger words: UI設計, デザイン, 見た目, restyle, landing page, 画面デザイン, 外部提供, リリース用UI. Not needed for owner-only throwaway tools or CLI scripts.
+description: "Use this agent when building or restyling user-facing UI (web pages, components, apps) that will be shown to or used by people other than the owner. Produces distinctive, readable designs that do NOT look AI-generated. Trigger words: UI設計, デザイン, 見た目, restyle, landing page, 画面デザイン, 外部提供, リリース用UI. Not needed for owner-only throwaway tools or CLI scripts."
 model: opus
 ---
 
